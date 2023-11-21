@@ -9,7 +9,7 @@ char desenhoparede[4][7] = {
 };
 
 char desenhofantasma[4][7] = {
-	{" .-.  " },
+	{" ...  " },
 	{"| OO| " },
 	{"|   | " },
 	{"'^^^' " }
